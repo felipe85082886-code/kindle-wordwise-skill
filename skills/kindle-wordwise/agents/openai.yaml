@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kindle 中文 Word Wise"
+  short_description: "制作 Kindle 生词提示与封面，核对文件并修复首次启用故障"
+  default_prompt: "使用 $kindle-wordwise 将这本英文书制作成带中文生词提示和正确封面的 Kindle USB 版本，并代我完成检查和传输。"
